@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 test How to contribute
+
+### Copyright
+2020 Git Training
